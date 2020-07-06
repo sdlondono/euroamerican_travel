@@ -12,7 +12,7 @@ function Home({ data }) {
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
       </Head>
       <div className="row">
-        <div className="col-md-4 text-center bg-success p-4">
+        <div className="col-md-4 text-center p-4" style={{ background: "#acd038"}}>
           <h1 className="text-white mt-5">Información de vuelos</h1>
         </div>
         <div className="col-md-8">
